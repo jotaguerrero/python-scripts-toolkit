@@ -4,7 +4,7 @@ In order to use the script you'll need to install some libraries. You'll find th
 
 ### Mac OS
 
-- `brew install tkinter`
+- `brew install python-tk`
 
 ### For Debian-based Linux:
 
