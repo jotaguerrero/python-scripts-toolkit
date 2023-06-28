@@ -1,6 +1,6 @@
 ## Requirements
 
-In order to use the script you'll need to install some libraries. You'll find them in the `requirements.txt` file that you can install with the command `pip install -r requirements.txt`. In order to run the scripts that uses the tkinter library you need to have it previously installed in your system, you can do so by running these commands:
+In order to use the script you'll need to install some libraries. You'll find them in the `requirements.txt` file that you can install with the command `pip install -r requirements.txt` or `pip3 install -r requirements.txt`. In order to run the scripts that uses the tkinter library you need to have it previously installed in your system, you can do so by running these commands:
 
 ### Mac OS
 
